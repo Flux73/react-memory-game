@@ -2,7 +2,9 @@
 
 a learning project created using React library!
 
-#
+# Live Demo
+
+[react-memory-game-flux.netlify.app](https://react-memory-game-flux.netlify.app)
 
 ### `npm install`
 
