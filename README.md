@@ -2,6 +2,8 @@
 
 a learning project created using React library!
 
+#
+
 ### `npm install`
 
 This will allow npm to install all the required dependencies so the app could work properly.
